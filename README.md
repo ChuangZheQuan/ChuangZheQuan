@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuangZheQuan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChuangZheQuan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChuangZheQuan&layout=compact&theme=tokyonight&langs_count=6)
 <!--
